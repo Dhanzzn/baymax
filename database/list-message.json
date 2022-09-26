@@ -320,5 +320,12 @@
       "response": "*JENIS PEMBAYARAN*\n\n—————————————————\n*DANA/OVO/LINKAJA/SHOPEEPAY*\n085155088506\nA/N FERDI ANANDA\n\n*Bank Digital BCA*\n002317830589\nA/N FERDI ANANDA\n—————————————————\n\n*_Silahkan Transfer Ke Salah Satu Jenis Pembayaran Diatas, Sertakan Bukti Transfer/Screenshot_*",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "120363024205098428@g.us",
+      "key": "PAYMENT",
+      "response": "*DESKRIPSI*",
+      "isImage": false,
+      "image_url": "-"
    }
 ]
