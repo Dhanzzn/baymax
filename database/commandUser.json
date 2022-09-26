@@ -1,0 +1,57 @@
+[
+  {
+    "jid": "6287856297295@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#donate",
+        "count": 4
+      },
+      {
+        "nama": "#menu",
+        "count": 9
+      },
+      {
+        "nama": "#owner",
+        "count": 9
+      },
+      {
+        "nama": "#stalkff",
+        "count": 2
+      },
+      {
+        "nama": "#delete",
+        "count": 1
+      },
+      {
+        "nama": "#setdone",
+        "count": 1
+      },
+      {
+        "nama": "#changedone",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6285161374290@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#hidetag",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282373797559@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#donate",
+        "count": 3
+      }
+    ]
+  }
+]

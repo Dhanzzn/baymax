@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6287856297295@s.whatsapp.net"],
+  "ownerName": ["ALDI SHOP"],
+  "botName": "ALDI BOT MY.ID",
+  "footer": "2022 © ALDI SHOP MY.ID",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "ALDI SHOP MY.ID"
+    }
+}

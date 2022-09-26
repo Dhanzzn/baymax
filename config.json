@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6282373797559@s.whatsapp.net"],
+  "ownerName": ["FERDI ANANDA"],
+  "botName": "Ferdi Ananda Bot",
+  "footer": "FERDI ANANDA BOT © 2022",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "ALDI SHOP MY.ID"
+    }
+}
